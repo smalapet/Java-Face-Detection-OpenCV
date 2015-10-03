@@ -1,3 +1,6 @@
+/*
+ * Copyrights 2015 Sivarat Malapet all rights reserved.
+ */
 package testOpenCV;
 
 import org.opencv.core.Core;
